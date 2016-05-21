@@ -25,4 +25,11 @@ One other setting that's worth mentioning in this introduction is the chunk size
 
 Good luck!
 
+## Todos
+1. select a gui to display and update text in a beautiful way.
+2. add the feature to adjust text speed text width
+3. load from words, pdf and etc.
+4. make the gui beatiful and user friendly
+5. add documentation
+
 
